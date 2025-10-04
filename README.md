@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/build/icon.png" width="250" />
+  <img src="octate.png" width="250" />
   <h1 align="center"> OCTATE</h1>
 </p>
 
