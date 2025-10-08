@@ -85,7 +85,6 @@ That's it. No onboarding maze, no email verification hell, no "schedule a demo" 
 
 | Shortcut | Action |
 |----------|---------|
-| <kbd>Ctrl</kbd> + <kbd>Space</kbd> | Toggle Octate visibility |
 | <kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Send message to AI |
 | <kbd>Ctrl</kbd> + <kbd>B</kbd> | Quick invisibility toggle |
 | <kbd>Ctrl</kbd> + <kbd>Q</kbd> | Quit application |
