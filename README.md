@@ -74,7 +74,7 @@ Because sometimes your code deserves honest feedback:
 
 1. **Download** → Install Octate
 2. **Add API Key** → Get free Gemini API key from Google AI Studio
-3. **Start Coding** → Press `Ctrl+Space` to ask questions
+3. **Start Coding** → Press `Ctrl+Enter` to ask questions
 4. **Toggle Invisibility** → Press `Ctrl+B` before screen sharing
 
 That's it. No onboarding maze, no email verification hell, no "schedule a demo" buttons.
