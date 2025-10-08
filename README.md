@@ -252,23 +252,6 @@ Built with caffeine, frustration with overpriced SaaS, and genuine respect for d
 Free. Focused. Built by devs who got tired of the BS.
 </p>
 
-<p align="center">
-<a href="https://your-website.com">Website</a> •
-<a href="https://github.com/your-repo">GitHub</a> •
-<a href="https://discord.gg/your-server">Discord</a> •
-<a href="https://twitter.com/your-handle">Twitter</a>
-</p>
-
----
-
-## 📮 Get Updates
-
-- 🐦 Follow development on Twitter
-- 💬 Join our Discord community
-- 📧 Subscribe to launch updates
-- ⭐ Star on GitHub (when public)
-
-**Current Status:** Private Beta → Public Launch (Q2 2025) → Open Source (10K users)
 
 ---
 
