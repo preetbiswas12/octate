@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Your free, invisible, AI pair programming companion.  
+Your free, context-aware AI pair programming companion.  
 Because paying $20/month for basic AI assistance is not in your budget.  
 </p>
 
@@ -12,7 +12,7 @@ Because paying $20/month for basic AI assistance is not in your budget.
 
 ## 🌌 What Is Octate?
 
-Octate is an **invisible overlay AI assistant** that sees your screen and helps you code in real-time. No context switching, no copy-pasting errors, no subscription fatigue.
+Octate is a **context-aware AI assistant** that sees your screen and helps you code in real-time. No context switching, no copy-pasting errors, no subscription fatigue.
 
 It captures your workspace when you ask questions, understands your code visually, and responds like a developer who actually gets it—with wit, clarity, and zero corporate speak.
 
@@ -110,8 +110,8 @@ That's it. No onboarding maze, no email verification hell, no "schedule a demo" 
 "Is this function too complex?"  
 → AI reads your code, suggests refactoring, explains alternatives
 
-### 🔥 **Interview Prep** 
-Practice coding problems with instant AI feedback and explanations  
+### 🔥 **Productivity Boost** 
+Get instant feedback and explanations while coding  
 → Learn faster, build confidence, understand patterns
 
 ---
@@ -248,7 +248,7 @@ Built with caffeine, frustration with overpriced SaaS, and genuine respect for d
 ---
 
 <p align="center">
-🔥 <strong>Octate: Debugging meets invisibility.</strong> 🔥<br>  
+🔥 <strong>Octate: Context-aware coding assistance, invisibility included.</strong> 🔥<br>  
 Free. Focused. Built by devs who got tired of the BS.
 </p>
 
